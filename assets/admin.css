@@ -1,0 +1,14 @@
+.bg-img {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-color {
+    background-color: rgb(73, 155, 84);
+}
+
+.btn-style {
+    background-color: rgb(73, 155, 84);
+    color: rgb(255, 255, 255);
+    margin-top: 20PX;
+}

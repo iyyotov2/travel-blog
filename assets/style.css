@@ -1,0 +1,84 @@
+* {
+    font-family: 'Caveat';
+    font-size: 22px;
+}
+
+.bg-img {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.hero {
+    max-height: 166px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('imgs/background-temp.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 166px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    color:  rgb(244, 255, 242);
+}
+
+.navbar-color {
+    background-color: rgb(73, 155, 84);
+}
+
+.blank, .news, .contact-form {
+    min-height: 320px;
+}
+
+.content-section {
+    margin: 25px;
+}
+
+.new {
+    min-height: 120px;
+    margin: 25px 0px 25px;
+    background-color: rgb(244, 255, 242);
+    color: rgb(73, 155, 84);
+    border: 1px solid rgb(73, 155, 84);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.new:hover {
+    background-color: rgb(73, 155, 84);
+    color: rgb(255, 255, 255);
+}
+
+.btn-style {
+    background-color: rgb(73, 155, 84);
+    color: rgb(255, 255, 255);
+    margin-top: 20PX;
+}
+
+.new-content {
+    margin-left: 25px;
+    padding-top: 10px;
+}
+
+.footer {
+    height: 100px;
+    background-color: rgb(73, 155, 84);
+    color: rgb(255, 255, 255);
+    margin-top: 60px;
+    display: flex;
+}
+
+.business-info {
+    display: flex;
+    align-items: center;
+    margin: 25px;
+}
